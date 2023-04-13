@@ -17,5 +17,4 @@ You can edit the input keys, the step rate, and other features.
 To add more pieces, just click ```ADD NEW``` and give it a name and draw on tiles. You can change it's color and the initial tile pivot.
 
 
-## External tools
-- DoTween => http://dotween.demigiant.com/
+
